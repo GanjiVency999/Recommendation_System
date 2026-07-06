@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Movie,Genre
 Avengers,Action
 Iron Man,Action
@@ -8,4 +9,16 @@ Frozen,Animation
 Toy Story,Animation
 Finding Nemo,Animation
 The Conjuring,Horror
+=======
+Movie,Genre
+Avengers,Action
+Iron Man,Action
+Batman,Action
+Titanic,Romance
+The Notebook,Romance
+Frozen,Animation
+Toy Story,Animation
+Finding Nemo,Animation
+The Conjuring,Horror
+>>>>>>> 2cdf493f144bf9add635f4f57119c501ea076c2b
 Annabelle,Horror
